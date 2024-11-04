@@ -1,0 +1,41 @@
+@media (max-width: 1301px) {
+  header {
+    padding-inline: 57px;
+  }
+
+  .sec1 {
+    padding-inline: 57px;
+  }
+  .sec2 {
+    padding: 48px 57px;
+  }
+
+  .sec3 {
+    padding: 48px 57px;
+  }
+  .book7,
+  .book8,
+  .book9 {
+    display: none;
+  }
+  .card2 {
+    width: 49.3%;
+  }
+}
+@media (max-width: 835px) {
+  header {
+    padding-inline: 46px;
+  }
+  .sec1 {
+    padding-inline: 46px;
+  }
+  .sec2 {
+    padding: 40px 46px;
+  }
+  .card3 {
+    display: none;
+  }
+  .sec3 {
+    padding: 40px 46px;
+  }
+}

@@ -1,0 +1,36 @@
+@media (max-width: 711px) {
+  header {
+    padding: 6px 38px;
+  }
+  .header_nav {
+    display: none;
+  }
+  .burger {
+    display: block;
+  }
+  .sec1 {
+    padding-inline: 38px;
+  }
+  .main_header {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+  .main_p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .sec2 {
+    padding: 40px 38px;
+  }
+  .sec3 {
+    padding: 40px 38px;
+  }
+  .card2 {
+    width: 100%;
+  }
+  .book5,
+  .book6 {
+    display: none;
+  }
+}

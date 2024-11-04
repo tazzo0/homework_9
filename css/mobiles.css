@@ -1,0 +1,36 @@
+@media (max-width: 376px) {
+  header {
+    padding-inline: 14px;
+  }
+  .sec1 {
+    padding-inline: 14px;
+  }
+
+  .main_p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .sec2 {
+    padding: 32px 14px;
+  }
+  .sec2_header {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .mini_sec2 {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+  .mini_sec2 .card {
+    width: 100%;
+  }
+  .sec3 {
+    padding: 32px 14px;
+  }
+  .sec3_header {
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
